@@ -1,7 +1,7 @@
 // Make sure to run the following commands after changes to this file are made:
 // `make generate-all && make lint && make check-all-generated-files-up-to-date`
 // you may also need to run `make push-build-image` depending on what has changed
-module github.com/yux3g/eksct
+module github.com/yuxiang-zhang/eksct
 
 go 1.18
 
