@@ -66,7 +66,7 @@ require (
 	github.com/tj/assert v0.0.3
 	github.com/vburenin/ifacemaker v1.2.1-0.20220402060045-b2018d8549dc
 	github.com/vektra/mockery v1.1.2
-	github.com/weaveworks/eksctl v0.129.0
+	github.com/weaveworks/eksctl v0.130.0
 	github.com/weaveworks/goformation/v4 v4.10.2-0.20221208090411-a71cb48c37d5
 	github.com/weaveworks/launcher v0.0.2-0.20200715141516-1ca323f1de15
 	github.com/weaveworks/schemer v0.0.0-20210802122110-338b258ad2ca
